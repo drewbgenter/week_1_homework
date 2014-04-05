@@ -1,4 +1,13 @@
 /* Make the invisible visible */
+h1{
+	height:200px;
+	background-color:lightgray;
+}
+head{
+	height:10px;
+}
+
+
 
 * {
   border: thin red solid;
