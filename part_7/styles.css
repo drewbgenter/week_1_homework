@@ -12,3 +12,37 @@ head{
 * {
   border: thin red solid;
 }
+
+.row{
+	clear:both;
+}
+
+.button{
+	  background-color: blue;
+  color: white;
+
+}
+
+.firstrow{
+	  	 float: left;
+  width: 33%;}
+}
+
+
+  .screenshot{
+  	  float: left;
+  width: 66%;
+  }
+
+  .caption{
+  	 float: left;
+  width: 33%;}
+  }
+
+.bottom {
+  float: left;
+  width: 25%;
+}
+.clearfix {
+  clear: both;
+}

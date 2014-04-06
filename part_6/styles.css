@@ -59,7 +59,7 @@ dd { margin-left: 200px;
     }
 
 table{
-font-family:arial;
+font-family:helvetica;
 font-size:14pt;
 font-style:thin;
  border-style:solid;
@@ -81,7 +81,7 @@ tr{
 }
 
 .odd_week{
-  background-color:#DFDFFF;
+  background-color:lavender;
 }
 th{
   background-color:black;
